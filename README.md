@@ -1,70 +1,31 @@
-# Getting Started with Create React App
+![Screenshot (343)](https://github.com/dhina-02/React-QR-generator/assets/141801163/2e56562b-635e-492b-89b7-429d8b212f73)# QR Code Generator
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description
 
-## Available Scripts
+The QR Code Generator is a web application built with React that allows users to easily generate QR codes for various types of data. Whether you want to create QR codes for URLs, plain text, or other types of data, this tool provides a simple and customizable solution.
 
-In the project directory, you can run:
+## Features
 
-### `npm start`
+- **Data Types:** Generate QR codes for different data types, including URLs, plain text, and more.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Customization:** Customize the appearance of the generated QR codes by adjusting parameters such as size.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Download Option:** Easily download the generated QR codes as image files for offline use.
 
-### `npm test`
+## Screenshots
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Screenshot (343)](https://github.com/dhina-02/React-QR-generator/assets/141801163/5b416bc9-b803-415d-9683-2d63b85c5680)
 
-### `npm run build`
+*QR code for link*
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Screenshot (344)](https://github.com/dhina-02/React-QR-generator/assets/141801163/e20163ae-e084-425c-9e39-fe4edbdad83f)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+*QR code for text*
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Installation
 
-### `npm run eject`
+To set up the QR Code Generator locally, follow these steps:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/dhina-02/React-QR-generator.git
