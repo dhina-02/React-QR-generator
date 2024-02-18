@@ -1,4 +1,4 @@
-![Screenshot (343)](https://github.com/dhina-02/React-QR-generator/assets/141801163/2e56562b-635e-492b-89b7-429d8b212f73)# QR Code Generator
+# QR Code Generator
 
 ## Description
 
