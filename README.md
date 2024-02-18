@@ -15,11 +15,9 @@ The QR Code Generator is a web application built with React that allows users to
 ## Screenshots
 
 ![Screenshot (343)](https://github.com/dhina-02/React-QR-generator/assets/141801163/5b416bc9-b803-415d-9683-2d63b85c5680)
-
 *QR code for link*
 
 ![Screenshot (344)](https://github.com/dhina-02/React-QR-generator/assets/141801163/e20163ae-e084-425c-9e39-fe4edbdad83f)
-
 *QR code for text*
 
 ## Installation
